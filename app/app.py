@@ -12,7 +12,7 @@ from torchvision import transforms
 from PIL import Image
 from utils.model import ResNet9
 
-
+#code
 
 disease_classes = ['Apple___Apple_scab',
                    'Apple___Black_rot',
